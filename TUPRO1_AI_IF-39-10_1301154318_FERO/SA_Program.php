@@ -7,7 +7,7 @@
 	<?php 
 
 		$iterasi_max =500000; // iterasi maksimal
-		$t_now = 100000; //Temepratur
+		$t_now = 100000; //Tempratur
 		$alpha = 0.995; // alpha
 
 		// mencari nilai random -10 sampai dengan 10
